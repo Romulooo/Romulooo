@@ -2,7 +2,7 @@
 🧠 Estudando no Instituto Federal de Educação, Ciência e Tecnologia Catarinense (Informática para Internet)<br>
 🔭 Atualmente trabalhando em pequenos projetos em utilizando React e React Native <br>
 💬 Entusiasta do Back-end<br>
-⚡ Um fato interessante sobre mim: toco guitarra e sou medalhista regional e nacional da obmep
+⚡ Fatos interessantes sobre mim: toco guitarra e sou medalhista regional e nacional da obmep
 
 # 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r%C3%B4mulo-nilson-horn-6b2672289/) 
